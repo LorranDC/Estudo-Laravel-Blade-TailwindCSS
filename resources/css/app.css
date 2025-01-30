@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@source "../views";
+
+@theme {
+    --color-primary: purple;   /* Custom primary color */
+    --color-secondary: #F59E0B; /* Custom secondary color */
+    --color-accent: #10B981;    /* Custom accent color */
+  }
+  
